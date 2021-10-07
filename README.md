@@ -6,4 +6,4 @@ To integrate google maps in your project, first :
 - create a styles.css file
 Then to be able to display the map, we have to add this line of code in index.html : 
 
-"<div id="map"></div>"
+# <div id="map"></div>
